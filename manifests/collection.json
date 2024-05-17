@@ -1,0 +1,13 @@
+{
+  "id" : "https://enifimov81k.github.io/EFIMOVEVERSTOVA/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in enifimov81k/EFIMOVEVERSTOVA project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://enifimov81k.github.io/EFIMOVEVERSTOVA/manifests/emnist.json",
+    "label" : "hand-written digits, letters from EMNIST dataset"
+  } ]
+}
