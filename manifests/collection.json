@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://enifimov81k.github.io/EFIMOVEVERSTOVA/manifests/e-e-emnist.json",
     "label" : "hand-written digits, letters from EMNIST dataset"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://enifimov81k.github.io/EFIMOVEVERSTOVA/manifests/faa2e9d1cec3eff0f04d65232d2a6177.json",
+    "label" : "hand-written digits, letters from EMNIST dataset"
   } ]
 }
